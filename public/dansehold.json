@@ -136,5 +136,28 @@
         "nythold": true,
         "rabat": false,
         "rabatsats": "5%"
+    },
+    {
+        "id": 7, 
+        "holdnavn": "Salsa",
+        "holdbillede": "dans.jpg",
+        "hodlbilledealt": "Salsa dans",
+        "holdbeskrivelse": "Så, er du klar til at krydre dit salsa-spil? Kom og vær med, når vi byder Carl Pallesen velkommen til vores salsa-linje og begiver os ud på en spændende rejse fyldt med rytme, passion og forbindelse.",
+        "holdcatchline": "Salsa - 70'er rytmisk dans i 2020'erne", 
+        "tilmeldingslink": "/salsa",
+        "tidspunkt": "onsdag 18-20",
+        "underviser": "Carl Pallesen",
+        "underviserfoto": "carl.jpg",
+        "underviserfotoalt": "Carl Pallesen - Salsakongen", 
+        "underviserurl": "/undervisere/karinahage",
+        "underviserinfo": "Salsakongen Carl Pallesen kommer til Danseskolen fra næste sæson. Gør dig klar til at ryste hofterne, sparke højt, og kaste dig bagover. Carl har ambitioner - for dig og danseskolen.",
+        "niveau": "Begynder",
+        "alder": "18+",
+        "lokale": "Koncertsalen",
+        "pladserpaaholdet": 20,
+        "antaldeltagere": 10,
+        "nythold": true,
+        "rabat": false,
+        "rabatsats": "5%"
     }
 ]
